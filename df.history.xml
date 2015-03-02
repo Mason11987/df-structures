@@ -207,7 +207,7 @@
 
     <enum-type type-name='histfig_flags'>
         <enum-item name='reveal_artwork'/>
-        <enum-item name='equipment_created/>
+        <enum-item name='equipment_created'/>
         <enum-item name='deity'/>
         <enum-item name='force'/>
         <enum-item name='skeletal_deity'/>
